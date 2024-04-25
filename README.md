@@ -9,5 +9,13 @@ with Advisor Associate Professor Dr. Phisan Santitamnont
 ข้อดีของการใช้ภาพดาวเทียมประมาณค่ารังวัดคือการขยายผลการประมาณออกไปเป็นวงกว้าง ในภาพหนึ่ง scene สามารถใช้เป็นข้อมูลเบื้องต้นในทำแผนที่สามมิติ แอนิเมชันในเมือง หรือตอบปัญหาต่างๆมากมายในปัจจุบัน
 ![image](https://github.com/lookmeebbear/BKK_BHE/assets/88705136/893d3e42-710e-4724-bb36-18a136813f4a)
 
+ข้อมูลรูปอาคารจาก Microsoft Building Footprint เพิ่มความสูงจากการประมาณค่า
+https://drive.google.com/file/d/1HRTZ9KrcMgaasNsJiVqbTN0swLkGyyt4/view?usp=drive_link
+
+แบบจำลองความสูงอาคารในรูปแบบ Raster Grid เหมาะกับอาคาร ไม่แนะนำวัตถุอื่นๆ
+https://drive.google.com/file/d/1GWE-KHn4gofX_xipyVTc1YHu7kxLPeoI/view?usp=drive_link
+
+โจทย์ที่น่าสนใจ ... การประมาณความสูงสิ่งปกคลุมดิน Digital Surface Model Estimation ??
+
 
 Thepchai Srinoi, Department of Survey Engineering Chulalongkorn University 2023-2024
