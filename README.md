@@ -13,6 +13,7 @@ with Advisor Associate Professor Dr. Phisan Santitamnont
 https://drive.google.com/file/d/1HRTZ9KrcMgaasNsJiVqbTN0swLkGyyt4/view?usp=drive_link
 
 แบบจำลองความสูงอาคารในรูปแบบ Raster Grid เหมาะกับอาคาร ไม่แนะนำวัตถุอื่นๆ ผมคิดว่าเป็นโจทย์ที่น่าสนใจ ในการศึกษาการประมาณความสูงสิ่งปกคลุมดิน Digital Surface Model Estimation ??
+แนะนำให้หา Vector Layer ถนน น้ำ มาปิดส่วนที่ไม่ต้องการออก (Mask Layer)
 https://drive.google.com/file/d/1GWE-KHn4gofX_xipyVTc1YHu7kxLPeoI/view?usp=drive_link
 
 
