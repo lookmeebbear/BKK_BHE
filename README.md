@@ -1,7 +1,7 @@
 # Bangkok Building Height Estimation
 การประมาณความสูงอาคารจากข้อมูลดาวเทียมแบบเปิด พื้นที่ศึกษาเมืองกรุงเทพมหานคร (BUILDING HEIGHT ESTIMATION  FROM OPEN SATELLITE IMAGERY CASE STUDY IN BANGKOK URBAN AREA) วิทยานิพนธ์สำหรับปริญญาวิศวกรรมศาสตรมหาบัณฑิต สาขาวิศวกรรมสำรวจ นายเทพชัย ศรีน้อย อาจารย์ที่ปรึกษาวิทยานิพนธ์ รองศาสตราจารย์ ดร.ไพศาล สันติธรรมนนท์ 
 
-บทความวิจัย Srinoi, T., Bannakulpiphat, T., Santitamnont, P., (2024) BUILDING HEIGHT ESTIMATION PRODUCTION FROM OPEN SATELLITE IMAGERY BY GRADIENT BOOSTING REGRESSION TECHNIQUE. Engineering Journal of Research and Development, Volume 35 Issue 2 April-June 2024. page 85-97 
+ส่วนหนึ่งของเนื้อหาได้ตีพิมพ์เป็นบทความวิจัย Srinoi, T., Bannakulpiphat, T., Santitamnont, P., (2024) BUILDING HEIGHT ESTIMATION PRODUCTION FROM OPEN SATELLITE IMAGERY BY GRADIENT BOOSTING REGRESSION TECHNIQUE. Engineering Journal of Research and Development, Volume 35 Issue 2 April-June 2024. page 85-97 https://ph02.tci-thaijo.org/index.php/eit-researchjournal/article/view/253794
 
 ![image](https://github.com/lookmeebbear/BKK_BHE/assets/88705136/a867c5a9-afa2-4177-98c0-ef0b77172854)
 การประมาณความสูงอาคารด้วยข้อมูลภาพดาวเทียมแบบเปิด (โหลดมาใช้งานได้โดยไม่เสียค่าใช้จ่าย) ทั้งระบบเชิงทัศน์ Sentinel-2A/B และระบบเรดาร์ช่องเปิดสังเคราะห์ Sentinel-1A/B ใช้เป็นข้อมูลลักษณะเด่นของแบบจำลอง ประกอบกับข้อมูลความสูงอาคารจากแบบจำลองระดับพื้นผิวซึ่งเป็นผลผลิตการประมวลผลภาพจากอากาศยานไร้คนขับจากโครงการระบบสารสนเทศภูมิศาสตร์ในพื้นที่เมือง Digital Twin by 3D GIS MEA การไฟฟ้านครหลวง ใช้เป็นข้อมูลส่งออกของแบบจำลอง สร้างแบบจำลองการประมาณค่าความสูงด้วยอัลกอริทึมการเรียนรู้ด้วยเครื่องแบบ Gradient Boosting Regression เทียบกับเทคนิคที่เป็นที่นิยมก่อนหน้า Random Forest Regression กับ Support Vector Machine Regression ภายในพื้นที่เมืองกรุงเทพมหานคร
